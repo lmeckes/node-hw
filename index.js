@@ -1,3 +1,3 @@
-console.log('hello i am requiring app/index.js')
+console.log('hello I am requiring app/index.js')
 
-require('./app/index')
+require('./calc.app/index')

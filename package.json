@@ -13,7 +13,8 @@
   "author": "louis meckes",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "nunjucks": "^3.0.1"
   },
   "devDependencies": {
     "mocha": "^5.0.0"
