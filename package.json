@@ -1,0 +1,21 @@
+{
+  "name": "nodehelloworld",
+  "version": "1.0.0",
+  "description": "Super Cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lms",
+    "homeoffice"
+  ],
+  "author": "louis meckes",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
+}

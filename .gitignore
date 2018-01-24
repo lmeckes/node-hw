@@ -1,0 +1,4 @@
+node_modules
+.idea
+nodeHelloWorld.iml
+package-lock.json
