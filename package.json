@@ -13,6 +13,7 @@
   "author": "louis meckes",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.2",
     "lodash": "^4.17.4",
     "nunjucks": "^3.0.1"
   },
