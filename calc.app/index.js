@@ -5,7 +5,9 @@ const numbersToAdd = [
   3,
   4,
   10,
-  2
+  2,
+  11,
+  12
 ]
 
 const result = calc.sum(numbersToAdd)
